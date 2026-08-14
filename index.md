@@ -10,7 +10,7 @@ summary: "\"Komm, Herr, segne uns!\", beten wir. An Erntedank stellen wir fest: 
 source: pfarrplaner
 source_id: "99@www.pfarrplaner.de"
 cover_alt: "Titelbild zur Predigt \"Wo wir alles teilen\"."
-audio: audio.mp3
+audio: wo-wir-alles-teilen.mp3
 audio_duration: "15:04"
 legacy_id: 99
 events:
